@@ -1,0 +1,15 @@
+C:\Users\Sergey\Desktop\GeekBrains\Знакомство с языком программирования C#\Домашняя работа\Семинар 1\Задача 4\bin\Debug\net6.0\Задача 4.exe
+C:\Users\Sergey\Desktop\GeekBrains\Знакомство с языком программирования C#\Домашняя работа\Семинар 1\Задача 4\bin\Debug\net6.0\Задача 4.deps.json
+C:\Users\Sergey\Desktop\GeekBrains\Знакомство с языком программирования C#\Домашняя работа\Семинар 1\Задача 4\bin\Debug\net6.0\Задача 4.runtimeconfig.json
+C:\Users\Sergey\Desktop\GeekBrains\Знакомство с языком программирования C#\Домашняя работа\Семинар 1\Задача 4\bin\Debug\net6.0\Задача 4.dll
+C:\Users\Sergey\Desktop\GeekBrains\Знакомство с языком программирования C#\Домашняя работа\Семинар 1\Задача 4\bin\Debug\net6.0\Задача 4.pdb
+C:\Users\Sergey\Desktop\GeekBrains\Знакомство с языком программирования C#\Домашняя работа\Семинар 1\Задача 4\obj\Debug\net6.0\Задача 4.csproj.AssemblyReference.cache
+C:\Users\Sergey\Desktop\GeekBrains\Знакомство с языком программирования C#\Домашняя работа\Семинар 1\Задача 4\obj\Debug\net6.0\Задача 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergey\Desktop\GeekBrains\Знакомство с языком программирования C#\Домашняя работа\Семинар 1\Задача 4\obj\Debug\net6.0\Задача 4.AssemblyInfoInputs.cache
+C:\Users\Sergey\Desktop\GeekBrains\Знакомство с языком программирования C#\Домашняя работа\Семинар 1\Задача 4\obj\Debug\net6.0\Задача 4.AssemblyInfo.cs
+C:\Users\Sergey\Desktop\GeekBrains\Знакомство с языком программирования C#\Домашняя работа\Семинар 1\Задача 4\obj\Debug\net6.0\Задача 4.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\GeekBrains\Знакомство с языком программирования C#\Домашняя работа\Семинар 1\Задача 4\obj\Debug\net6.0\Задача 4.dll
+C:\Users\Sergey\Desktop\GeekBrains\Знакомство с языком программирования C#\Домашняя работа\Семинар 1\Задача 4\obj\Debug\net6.0\refint\Задача 4.dll
+C:\Users\Sergey\Desktop\GeekBrains\Знакомство с языком программирования C#\Домашняя работа\Семинар 1\Задача 4\obj\Debug\net6.0\Задача 4.pdb
+C:\Users\Sergey\Desktop\GeekBrains\Знакомство с языком программирования C#\Домашняя работа\Семинар 1\Задача 4\obj\Debug\net6.0\Задача 4.genruntimeconfig.cache
+C:\Users\Sergey\Desktop\GeekBrains\Знакомство с языком программирования C#\Домашняя работа\Семинар 1\Задача 4\obj\Debug\net6.0\ref\Задача 4.dll
