@@ -22,9 +22,7 @@ void SortArray(int[,] Array)
                     }
                 }
             }
-            int temp = Array[i,j]; //тут меняем местами минимальное значение и текущее
-            Array[i,j] = Array[minPosition[0],minPosition[1]];
-            Array[minPosition[0],minPosition[1]] = temp;
+            (Array[i,j], Array[minPosition[0],minPosition[1]]) = (Array[minPosition[0],minPosition[1]], Array[i,j]); //тут меняем местами минимальное значение и текущее
         }
     }
 }
