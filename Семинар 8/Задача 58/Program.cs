@@ -2,13 +2,13 @@
 
 int[,] MultiplyArray(int[,] Array1, int[,] Array2)
 {
-    int[,] ResultArray = new int[Array1.GetLength(0), Array2.GetLength(1)];
-    for (int i = 0; i < Array1.GetLength(0); i++)
+    int[,] ResultArray = new int[Array1.GetLength(0), Array2.GetLength(1)]; //массив произведения двух матрив
+    for (int i = 0; i < Array1.GetLength(0); i++) //сначала цикл по строкам первой матрицы
     {
-        for (int j = 0; j < Array2.GetLength(1); j++)
+        for (int j = 0; j < Array2.GetLength(1); j++) //потом цикл по столбцам второй матрицы
         {
             int multiply = 0;
-            for (int k = 0; k < Array2.GetLength(0); k++)
+            for (int k = 0; k < Array2.GetLength(0); k++) //для каждого столбца второй матрицы цикл по строкам
             {
                 multiply += Array1[i,k] * Array2[k,j];
             }
